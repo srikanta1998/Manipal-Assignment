@@ -1,0 +1,12 @@
+Ten Cloud Providers :
+
+1. Amazon Web Services (AWS)
+2. Microsoft Azure
+3. Google Cloud Platform (GCP)
+4. IBM Cloud
+5. Oracle Cloud Infrastructure
+6. Alibaba Cloud
+7. Digital Ocean
+8. VMware Cloud
+9. Rackspace
+10. Salesforce Cloud

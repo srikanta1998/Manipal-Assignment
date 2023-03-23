@@ -1,0 +1,90 @@
+#include <stdio.h>
+#include<stdlib.h>
+void ascenfun(int arr[], int size);
+void descfun(int arr[], int size);
+void printfun(int arr[], int size);
+
+int main()
+{
+    int size=0;
+    printf("Enter the size of the array : ");
+    scanf("%d",&size);
+    
+    int arr[size];
+    printf("\n\n");
+    for(int i=0;i<size;i++)
+    {
+        printf("Enter element %d : ",(i+1));
+        scanf("%d",&arr[i]);
+    }
+    
+    printf("\n\n");
+    printf("\t\t\tSelect");
+    printf("\n\n");
+    printf("For Ascending order : 0");
+    printf("\t\tFor Descending order : 1");
+    printf("\n\n\t\tEnter your choice : ");
+    int ch;
+    scanf("%d",&ch);
+    switch(ch)
+    {
+        case 0 : printf("\n\n");
+                 ascenfun(arr,size);
+                 printfun(arr, size);
+                 exit(0);
+                 
+        case 1 : printf("\n\n");
+                 descfun(arr,size);
+                 printfun(arr, size);
+                 exit(0);
+                 
+        default : printf("Invalid choice!");
+    }
+    
+    return 0;
+}
+
+void ascenfun(int arr[], int size)
+{
+    int temp;
+        for(int i=0;i<size;i++)
+    {
+        for(int j=i+1;j<size;j++ )
+        {
+            if(arr[j]<arr[i])
+            {
+                temp = arr[i];
+                arr[i]=arr[j];
+                arr[j]=temp;
+            }
+        }
+        
+    }
+}
+
+void descfun(int arr[], int size)
+{
+    int temp;
+        for(int i=0;i<size;i++)
+    {
+        for(int j=i+1;j<size;j++ )
+        {
+            if(arr[j]>arr[i])
+            {
+                temp = arr[i];
+                arr[i]=arr[j];
+                arr[j]=temp;
+            }
+        }
+        
+    }
+}
+
+void printfun(int arr[], int size)
+{
+    for(int i=0;i<size;i++)
+    {
+        printf("Element %d in the array is : %d\n",(i+1),arr[i]);
+    }
+}
+
