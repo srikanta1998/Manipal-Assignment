@@ -1,0 +1,28 @@
+Stages of Agile Methodology
+---------------------------
+
+There are six stages in the agile methodology they are :
+
+1. Planning :
+
+-> Here the scope of the project will be defined along with goals and objectives.The size of the sprint team will be decided.
+
+2. Sprint :
+
+-> The team lead by the scrum master will work on task or user stories for a time period of 1-4 weeks. At the end of each sprint, the team delivers a working product or feature.
+
+3. Stand-up Meeting :
+
+-> The team meets daily to discuss progress, issues, and plans for the day.
+
+4. Review :
+
+-> At the end of each sprint, the team reviews the progress made and the deliverables produced, and evaluates whether the goals and objectives have been met.
+
+5. Retrospective :
+
+-> The team holds a retrospective meeting to discuss what went well, what didn't go well, and how the team can improve in the next sprint.
+
+6. Continuous Integration and Delivery : 
+
+-> The team uses continuous integration and delivery (CI/CD) practices to ensure that changes are integrated into the product quickly and efficiently, with automated testing and deployment processes.

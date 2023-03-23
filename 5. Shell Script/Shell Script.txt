@@ -1,0 +1,7 @@
+-> A shell script is a program written in a scripting language that is interpreted by a command-line shell, such as Bash on a Linux OS.
+
+-> Shell scripts are typically stored in plain text files with the file extension ".sh". They can be executed by typing the name of the script file at the command prompt, preceded by the shell interprete
+
+-> Shell scripts can include commands, variables, conditional statements, loops, and functions, just like any other programming language
+
+-> Shell scripts can be used to automate repetitive tasks, perform system administration tasks, and create simple programs.

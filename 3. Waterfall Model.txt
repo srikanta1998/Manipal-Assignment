@@ -1,0 +1,38 @@
+Waterfall Model
+----------------
+
+-> waterfall model is the first practcised approach in the Industry, and it has linear approach
+
+-> It had pre-defined stages that is followed in a sequential order. In this model increment is happened only when the current stage is completed.
+
+-> The model includes the following phases: requirements gathering and analysis, design, implementation, testing, deployment, and maintenance.
+
+-> The main drawbacks of the Waterfall Model is that it is not well-suited for projects where the requirements are uncertain or subject to change.
+
+-> The waterfall model follows selone approach.
+
+Agile Model
+-----------
+
+-> Agile model is a combination of incremental model + iterative model.
+
+-> The Agile Model is characterized by its use of short development cycles, called sprints, which typically last one to four weeks.
+
+-> In agile methodology there will be scrum master who will practice the sprint approach
+
+-> There will be sinkup meet/stand up meet in daily in the sprint methodology.
+
+-> Agile development teams use a range of practices and frameworks, such as Scrum, Kanban, and Extreme Programming (XP), to manage the development process and prioritize work.
+
+DevOps
+-------
+
+-> DevOps is a combination of Development + Operations teams work.
+
+-> Devops works as a carrier tool in taking orders and tasks.
+
+-> devops is a continious integration tool, and it uses jenkin.
+
+-> he goal of DevOps is to improve the speed, quality, and reliability of software development and deployment.
+
+-> Another benefit of DevOps is that it encourages collaboration and communication between development and operations teams, which can lead to better outcomes.

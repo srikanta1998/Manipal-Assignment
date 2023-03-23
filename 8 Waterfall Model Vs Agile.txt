@@ -1,0 +1,91 @@
+a. Waterfall Model Vs Agile Model vs DevOps
+-------------------------------------------
+
+Waterfall model, Agile model, and DevOps are all project management methodologies that have different approaches to software development.
+
+Approaches:
+
+-> The Waterfall model is a linear, sequential approach to software development.
+
+-> Agile methodology is a flexible, iterative approach to software development.
+
+-> DevOps is a methodology that combines development and operations into a single, collaborative team.
+
+Goals:
+
+-> The focus is on detailed planning and design upfront, with the goal of reducing risks and ensuring that the final product meets all requirements.
+
+-> Development is broken down into short iterations, typically 1-4 weeks long, and each iteration produces a working software product.
+
+-> The goal is to create a more efficient and streamlined software development process, with continuous integration, testing, and delivery of software updates and improvements.
+
+Integration:
+
+-> Changes to requirements or design are difficult to implement once development has started, Testing occurs at the end of the development cycle.
+
+-> Testing is integrated throughout the development cycle, and feedback from testing is used to improve the product in each iteration.
+
+-> DevOps also involves continuous monitoring and feedback, with the goal of identifying and resolving issues quickly.
+
+b. Scrum Vs Kanban
+------------------
+
+-> Scrum is an iterative and incremental approach to software development, It involves breaking down development into sprints, and each sprint produces a working software product.
+
+-> Kanban is a visual system for managing work that emphasizes flexibility and continuous improvement, It involves visualizing the work to be done on a Kanban board, with tasks moving from left to right as they progress through the development cycle.
+
+-> Scrum includes ceremonies such as Sprint Planning, Daily Stand-ups, Sprint Review, and Sprint Retrospective to ensure that the team is working together effectively and that progress is being made.
+
+-> Kanban does not have specific ceremonies like Scrum, but instead emphasizes continuous improvement through regular team meetings and feedback.
+
+-> Scrum teams are self-organizing and cross-functional, with each team member taking on specific roles, such as Product Owner, Scrum Master, and Development Team.
+
+-> Kanban teams are self-organizing and focus on reducing waste and improving workflow, Kanban emphasizes limiting work in progress (WIP) to avoid overburdening team members and to ensure that work is completed quickly and efficiently.
+
+c. Git Vs BitBucket
+-------------------
+
+-> Git is a distributed versinioning control system(DVS) tool which is used to pull and push the code.
+
+-> BitBucket is a Remote Repo/ Cloud/ or a service.
+
+-> Mercurial be another type of Git.
+
+-> Gitnub,Gitlab,Bithub are another types for bitbucket.
+
+d. LVCS vs CVCS vs DVCS
+-----------------------
+
+-> LVCS stands for "Local Version Control System."
+
+-> CVCS stands for "Centralized Version Control System."
+
+-> DVCS stands for "Distributed Version Control System."
+
+-> It is the simplest form of version control system, where the developer maintains a copy of the codebase on their local machine and manually creates backups or copies to manage versions.
+
+-> In a CVCS, a central server stores the codebase and developers work with the codebase by checking out a copy from the server. Changes are made to the copy on the developer's machine and then committed back to the server.
+
+-> In a DVCS, every developer has a complete copy of the codebase on their local machine, including the entire history of changes. Changes can be made to the codebase and then committed to the local repository without requiring access to a central server.
+
+-> LVCS is prone to errors and does not allow multiple developers to work on the same codebase easily.
+
+-> CVCS provides a single point of access and management for the codebase, making it easier to manage and control changes. However, it can also lead to a single point of failure if the central server goes down.
+
+-> DVCS is more resilient than CVCS, as each developer has a complete copy of the codebase, reducing the risk of a single point of failure.
+
+e. DOS Vs Windows
+-----------------
+
+-> DOS is a command-line operating system that was designed to run on computers with limited hardware resources. DOS uses a command-line interface (CLI) to interact with the user, which requires users to enter commands to perform tasks.
+
+-> Windows is a graphical operating system that is designed to be user-friendly and has a GUI that allows users to interact with the operating system and software using icons and windows.
+
+-> DOS is a single-tasking operating system, which means it can only run one program at a time.
+
+-> Windows supports multitasking, which means it can run multiple programs simultaneously.
+
+-> DOS does not have a graphical user interface (GUI) and does not support multitasking, networking, or advanced security features.
+
+-> Windows can run both command-line and GUI-based applications.
+

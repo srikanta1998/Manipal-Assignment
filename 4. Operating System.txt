@@ -1,0 +1,58 @@
+Operating System
+-----------------
+
+-> An operating system (OS) is a software program that manages computer hardware and software resources.
+
+-> It is responsible for controlling and coordinating the activities and sharing of resources of the computer system, such as the processor, memory, storage devices, input/output devices, and network connectivity.
+
+-> There are many different types of operating systems, including Windows, macOS, Linux, Android, and iOS.
+
+-> Main operations of Operating System are managing system resources such as CPU time, memory, and storage space.
+
+-> Handling input and output operations such as reading and writing data to storage devices and displaying information on the screen.
+
+-> Managing and scheduling tasks and processes, which allows multiple programs to run concurrently.
+
+Linux Commands
+--------------
+
+- clear/ ctrl+l
+
+- ls/ -l
+
+- exit
+
+- date
+
+- time
+
+- history
+
+- cd
+
+- mkdir
+
+- cd ..
+
+- rmdir
+
+- cp
+
+- pwd
+
+- mv
+
+- rm
+
+- cat (file name)
+
+- cat > (file name)
+
+- cat >> (file name)
+
+- tac
+
+- touch a
+
+- touch a,b,c
+

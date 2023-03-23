@@ -1,0 +1,32 @@
+DevOps tools (15)
+-----------------
+
+1. Git
+
+2. Maven
+
+3. Selenium
+
+4. CheckStyle
+
+5. Chef
+
+6. Puppet
+
+7. Docker
+
+8. Kubernets
+
+9. Ansible
+
+10. SaltStack
+
+11. Nagios
+
+12. CloudWatch
+
+13. Jenkins
+
+14. Terraform
+
+15. Splunk
